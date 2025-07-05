@@ -1,0 +1,4 @@
+float64 temperature
+bool are_motors_operational
+bool is_battery_operational
+string debug_message
